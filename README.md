@@ -64,8 +64,10 @@ such as cybersecurity and privacy, ensuring a secure online shopping environment
  3. JAVASCRIPT
 
 # AUTHOR 
-RIDDHI VIPUL MEHTA 
-ADITYA MANISH SUREKA 
+RIDDHI VIPUL MEHTA
+
+ADITYA MANISH SUREKA
+
 BHOOMIKA SURVE 
 
 # CONNECT WITH ME 
